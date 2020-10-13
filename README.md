@@ -19,7 +19,7 @@
 
 扫描关注最新动态：
 
-![联系我](./md/img/gongzhonghao.jpg)
+![联系我](http://icdn.apigo.cn/gongzhonghao2.png)
 
 
 
@@ -102,5 +102,5 @@
 
 ## 联系我
 
-![联系我](./md/img/gongzhonghao.jpg)
+![联系我](http://icdn.apigo.cn/gongzhonghao2.png)
 
