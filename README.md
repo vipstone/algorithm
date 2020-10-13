@@ -4,25 +4,6 @@
 
 
 
-### 文章目录
-
-- [《轻松学算法的奥秘，算法演示网站汇总》](https://mp.weixin.qq.com/s/j9r3o-vs546nS6IeHRHnzQ)
-- [《图解|查找数组中最大值的5种方法！》](https://mp.weixin.qq.com/s/zHM9L-G2mxlludIyjUs5Zw)
-- [《动图演示：手撸堆栈的两种实现方法！》](https://mp.weixin.qq.com/s/HkDnPxuOAT3GmbMgMmIAgg)
-- [《JDK 竟然是这样实现栈的？》](https://mp.weixin.qq.com/s/ztEiJGa9MCeGBMpYzSfkUg)
-- [《链表反转的两种实现方法，后一种击败了100%的用户！》](https://mp.weixin.qq.com/s/-t3zGkByxvNUiEIVxPnydA)
-- [《算法图解：如何找出栈中的最小值？》](https://mp.weixin.qq.com/s/afz5sOMM0UITrkgakN7jGA)
-- [《回文判断的3种方法！》](https://mp.weixin.qq.com/s/e8bAxz554gtU0dXGJbQkuw)
-- 持续更新中...
-
-
-
-扫描关注最新动态：
-
-![联系我](http://icdn.apigo.cn/gongzhonghao.jpg)
-
-
-
 ### 算法学习大纲
 
 #### 数据结构
@@ -76,6 +57,27 @@
 - 贪心算法
 - 回溯
 - 分治算法
+
+
+
+### 文章目录
+
+- [《轻松学算法的奥秘，算法演示网站汇总》](https://mp.weixin.qq.com/s/j9r3o-vs546nS6IeHRHnzQ)
+- [《图解|查找数组中最大值的5种方法！》](https://mp.weixin.qq.com/s/zHM9L-G2mxlludIyjUs5Zw)
+- [《动图演示：手撸堆栈的两种实现方法！》](https://mp.weixin.qq.com/s/HkDnPxuOAT3GmbMgMmIAgg)
+- [《JDK 竟然是这样实现栈的？》](https://mp.weixin.qq.com/s/ztEiJGa9MCeGBMpYzSfkUg)
+- [《链表反转的两种实现方法，后一种击败了100%的用户！》](https://mp.weixin.qq.com/s/-t3zGkByxvNUiEIVxPnydA)
+- [《算法图解：如何找出栈中的最小值？》](https://mp.weixin.qq.com/s/afz5sOMM0UITrkgakN7jGA)
+- [《回文判断的3种方法！》](https://mp.weixin.qq.com/s/e8bAxz554gtU0dXGJbQkuw)
+- 持续更新中...
+
+
+
+扫描关注最新动态：
+
+![联系我](http://icdn.apigo.cn/gongzhonghao.jpg)
+
+
 
 ## 推荐阅读
 
