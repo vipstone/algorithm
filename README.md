@@ -69,6 +69,10 @@
 - [《链表反转的两种实现方法，后一种击败了100%的用户！》](https://mp.weixin.qq.com/s/-t3zGkByxvNUiEIVxPnydA)
 - [《算法图解：如何找出栈中的最小值？》](https://mp.weixin.qq.com/s/afz5sOMM0UITrkgakN7jGA)
 - [《回文判断的3种方法！》](https://mp.weixin.qq.com/s/e8bAxz554gtU0dXGJbQkuw)
+- [《算法图解：如何判断括号是否有效？》](https://mp.weixin.qq.com/s/qDY4JbaQLsQC-HZxeBDt6A)
+- [《漫画：什么是布隆算法？》](https://mp.weixin.qq.com/s/BwGB_ofSQ1WjTuZbREq4cw)
+- [《漫画：什么是红黑树？（整合版）》](https://mp.weixin.qq.com/s/FD1Zkme8jW6X87-Hro19ow)
+
 - 持续更新中...
 
 
