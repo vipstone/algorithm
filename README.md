@@ -76,6 +76,7 @@
 - [《漫画：如何找到链表的倒数第n个结点？》](https://mp.weixin.qq.com/s/MuBczrBDvUIiXSioNT6oVgw)
 - [《Java中的5大队列，你知道几个？》](https://mp.weixin.qq.com/s/pvcLcJUBXqS9IS7i0IeOxA)
 - [《算法图解：如何用两个栈实现一个队列？》](https://mp.weixin.qq.com/s/18GdYCCaaltx4ZMVkPsptg)
+- [《小白学算法：买卖股票的最佳时机！》](https://mp.weixin.qq.com/s/44VT8Y2VXgxe3TC-I4CQ_w)
 - 持续更新中...
 
 
