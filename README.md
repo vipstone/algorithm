@@ -79,6 +79,7 @@
 - [《小白学算法：买卖股票的最佳时机！》](https://mp.weixin.qq.com/s/44VT8Y2VXgxe3TC-I4CQ_w)
 - [《队列实现栈的3种方法，全都击败了100%的用户！》](https://mp.weixin.qq.com/s/-i_PNU_3EXanK9G95SsDPA)
 - [《23张图！万字详解「链表」，从小白到大佬！》](https://mp.weixin.qq.com/s/BRcsDO9aAKtYWduCtST9gA)
+- [《嗯，查询滑动窗口最大值的这4种方法不错....》](https://mp.weixin.qq.com/s/3Gy17jwz6FXNaIwdfjSWGg)
 - 持续更新中...
 
 
